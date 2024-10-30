@@ -1,4 +1,4 @@
-The data presented to you is a record of a job satisfaction survey taken in an organisation. I created a Power BI report using the data provided.
+The data presented to you is a record of a job satisfaction survey taken in an organisation. I created a Power BI report "Job Satisfaction Survey.pbix" using the data provided.
 My solution includes the following:
 
 • Top 3 managers with the highest scores
